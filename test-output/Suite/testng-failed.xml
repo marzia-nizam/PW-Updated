@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="plexus.reg.RegTest_10">
+        <methods>
+          <include name="LaunchBrowser"/>
+          <include name="RegTest10"/>
+        </methods>
+      </class> <!-- plexus.reg.RegTest_10 -->
+      <class name="plexus.reg.RegTest_8">
+        <methods>
+          <include name="RegTest8"/>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- plexus.reg.RegTest_8 -->
+      <class name="plexus.reg.CreatePrefilledForm_1">
+        <methods>
+          <include name="CreatePrefilledForm"/>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- plexus.reg.CreatePrefilledForm_1 -->
+      <class name="plexus.reg.RegTest_9">
+        <methods>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- plexus.reg.RegTest_9 -->
+      <class name="plexus.reg.RegTest_13">
+        <methods>
+          <include name="RegTest13"/>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- plexus.reg.RegTest_13 -->
+      <class name="plexus.reg.DrawsandGWP_3a">
+        <methods>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- plexus.reg.DrawsandGWP_3a -->
+      <class name="plexus.reg.CreatePrefilledForm_2">
+        <methods>
+          <include name="CreatePreFilledForm"/>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- plexus.reg.CreatePrefilledForm_2 -->
+      <class name="plexus.reg.RegTest_2">
+        <methods>
+          <include name="RegTest2"/>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- plexus.reg.RegTest_2 -->
+      <class name="plexus.reg.RegTest_14">
+        <methods>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- plexus.reg.RegTest_14 -->
+      <class name="plexus.reg.CreatePreFilledForm_4">
+        <methods>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- plexus.reg.CreatePreFilledForm_4 -->
+      <class name="plexus.reg.DrawsandGWP_1">
+        <methods>
+          <include name="DrawsandGWP1"/>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- plexus.reg.DrawsandGWP_1 -->
+      <class name="plexus.reg.RegTest_15">
+        <methods>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- plexus.reg.RegTest_15 -->
+      <class name="plexus.reg.RegTest_12">
+        <methods>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- plexus.reg.RegTest_12 -->
+      <class name="plexus.reg.RegTest_5_1">
+        <methods>
+          <include name="RegTest5"/>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- plexus.reg.RegTest_5_1 -->
+      <class name="plexus.reg.RegTest_5">
+        <methods>
+          <include name="LaunchBrowser"/>
+          <include name="RegTest5"/>
+        </methods>
+      </class> <!-- plexus.reg.RegTest_5 -->
+      <class name="plexus.reg.DrawsandGWP_2">
+        <methods>
+          <include name="DrawsandGWP2"/>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- plexus.reg.DrawsandGWP_2 -->
+      <class name="plexus.reg.DrawsandGWP_3">
+        <methods>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- plexus.reg.DrawsandGWP_3 -->
+      <class name="plexus.reg.DrawsandGWP_4">
+        <methods>
+          <include name="DrawsandGWP4"/>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- plexus.reg.DrawsandGWP_4 -->
+      <class name="plexus.reg.RegTest_3">
+        <methods>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- plexus.reg.RegTest_3 -->
+      <class name="plexus.reg.RegTest_6">
+        <methods>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- plexus.reg.RegTest_6 -->
+      <class name="plexus.reg.CreatePreFilledForm_5">
+        <methods>
+          <include name="CreatePreFilledForm"/>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- plexus.reg.CreatePreFilledForm_5 -->
+      <class name="plexus.reg.RegTest_11">
+        <methods>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- plexus.reg.RegTest_11 -->
+      <class name="plexus.reg.DrawsandGWP_5">
+        <methods>
+          <include name="DrawsandGWP5"/>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- plexus.reg.DrawsandGWP_5 -->
+      <class name="plexus.reg.CreatePreFilledForm_3">
+        <methods>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- plexus.reg.CreatePreFilledForm_3 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
